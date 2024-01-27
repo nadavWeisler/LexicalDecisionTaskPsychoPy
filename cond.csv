@@ -1,0 +1,7 @@
+corrAns,thisCond,thisWord
+left,word,CAT
+left,word,BAR
+left,word,TEA
+right,nonword,GHS
+right,nonword,JUL
+right,nonword,POK
